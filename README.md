@@ -120,7 +120,7 @@ Deployment steps:
 ## Notes
 
 - No backend/API is currently integrated.
-- If you add APIs later, place environment variables in `.env` using `VITE_` prefix.
+- If needed , we can add APIs later, place environment variables in `.env` using `VITE_` prefix.
 
 ## License
 
