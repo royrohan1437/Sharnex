@@ -3,6 +3,8 @@
 A modern multi-page React application for a School Management / ERP platform UI.  
 This project was built as an intern assignment with focus on visual consistency, responsive design, legal pages, and production-ready deployment on Vercel.
 
+Live Project : https://sharne-p22vg6c1z-rpr-soul09s-projects.vercel.app/
+
 ## Live Scope
 
 Implemented pages:
